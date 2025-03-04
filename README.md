@@ -70,18 +70,8 @@ python src/optimization.py
 ## 👥 Team Contribution
 Each team member must clearly indicate their contribution and learning reflection in the final report.
 
-## 📅 Submission Guidelines
-- **Group Report**: `GroupReport_Firstname_Surname1_Firstname_Surname2.pdf`
-- **Code File**: `Code_Firstname_Surname1_Firstname_Surname2.ipynb`
-- **Zipped Folder**: `Firstname_Surname1_Firstname_Surname2.zip`
-- **Presentation**: `PPT_Group_Name.pptx`
-
-📌 **Note:** Ensure all submissions follow **Dublin Business School** guidelines to avoid plagiarism issues.
-
 ## 📢 Conclusion
 This project provides hands-on experience in **supervised learning**, covering all aspects from **data selection to model evaluation**. The critical analysis in the final report and presentation will highlight the strengths and weaknesses of each model.
-
-🔹 **Next Steps:** Improve feature selection, explore more algorithms, and integrate advanced hyperparameter tuning.
 
 ---
 ✍️ **Authors:** Group Members  
