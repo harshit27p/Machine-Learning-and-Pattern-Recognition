@@ -62,11 +62,6 @@ python src/optimization.py
 - **Accuracy, Precision, Recall, and F1-score** for classification models.
 - **Confusion Matrix and ROC Curve** for model comparisons.
 
-## 🎯 Expected Deliverables
-- **Python Code**: Well-documented scripts implementing the models.
-- **Presentation**: Critical analysis of model performance and insights.
-- **Dataset Reference**: Proper citation of the dataset used.
-
 ## 👥 Team Contribution
 Each team member must clearly indicate their contribution and learning reflection in the final report.
 
